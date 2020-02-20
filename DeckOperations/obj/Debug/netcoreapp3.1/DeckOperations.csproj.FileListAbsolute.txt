@@ -1,0 +1,11 @@
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\bin\Debug\netcoreapp3.1\DeckOperations.exe
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\bin\Debug\netcoreapp3.1\DeckOperations.deps.json
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\bin\Debug\netcoreapp3.1\DeckOperations.runtimeconfig.json
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\bin\Debug\netcoreapp3.1\DeckOperations.runtimeconfig.dev.json
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\bin\Debug\netcoreapp3.1\DeckOperations.dll
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\bin\Debug\netcoreapp3.1\DeckOperations.pdb
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\obj\Debug\netcoreapp3.1\DeckOperations.csprojAssemblyReference.cache
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\obj\Debug\netcoreapp3.1\DeckOperations.AssemblyInfoInputs.cache
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\obj\Debug\netcoreapp3.1\DeckOperations.AssemblyInfo.cs
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\obj\Debug\netcoreapp3.1\DeckOperations.dll
+C:\Users\Omarc\source\repos\DeckOperations\DeckOperations\obj\Debug\netcoreapp3.1\DeckOperations.pdb
